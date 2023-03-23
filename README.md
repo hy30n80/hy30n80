@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hy30n80)](https://solved.ac/hy30n80)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hy30n80)](https://solved.ac/hy30n80)
