@@ -3,11 +3,11 @@
 <!--
 **hy30n80/hy30n80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://capsule-render.vercel.app/api?
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jjun8030@gist.ac.kr)](https://solved.ac/jjun8030@gist.ac.kr)
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 Here are some ideas to get you started:
 
