@@ -1,7 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header)
+
 ### Hi there 👋
 
 
-**hy30n80/hy30n80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
@@ -19,5 +20,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hy30n80&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=hy30n80&show_icons=true">
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hy30n80)](https://solved.ac/hy30n80)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
