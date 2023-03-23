@@ -5,8 +5,7 @@
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jjun8030@gist.ac.kr)](https://solved.ac/jjun8030@gist.ac.kr)
+
 
 
 Here are some ideas to get you started:
@@ -19,3 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hy30n80)](https://solved.ac/hy30n80)
